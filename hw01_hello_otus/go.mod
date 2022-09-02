@@ -1,4 +1,4 @@
-module github.com/Ekod/hw01_hello_otus
+module github.com/Ekod/go-otus/hw01_hello_otus
 
 go 1.16
 
